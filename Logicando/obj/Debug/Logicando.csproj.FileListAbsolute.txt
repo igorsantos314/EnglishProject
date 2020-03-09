@@ -1,0 +1,10 @@
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\bin\Debug\Logicando.exe.config
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\bin\Debug\Logicando.exe
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\bin\Debug\Logicando.pdb
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.csprojResolveAssemblyReference.cache
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.Form1.resources
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.Properties.Resources.resources
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.csproj.GenerateResource.Cache
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.csproj.CoreCompileInputs.cache
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.exe
+C:\Users\Igor Santos\source\repos\Logicando\Logicando\obj\Debug\Logicando.pdb
